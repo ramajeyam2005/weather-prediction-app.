@@ -168,7 +168,7 @@ useEffect (function ( ){
           className="cityinput"
           placeholder="Search city"
           onChange={handlecity}
-          value={txt}
+          value={text}
           onKeyDown={handlekeydown}
 
         />
